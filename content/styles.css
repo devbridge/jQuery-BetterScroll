@@ -1,0 +1,55 @@
+﻿body {
+	background: #fff;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	min-width: 320px;
+	padding: 0;
+}
+
+h1,
+h2,
+h3 {
+	margin: 0;
+	padding: 30px 0;
+}
+
+button {
+	background: transparent;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	padding: 5px 10px;
+}
+
+.scroll-off {
+	overflow: hidden;
+}
+
+.scroll-on {
+	overflow: auto;
+}
+
+.page-frame {
+	margin: 0 auto;
+	max-width: 1024px;
+}
+
+.demo-page-1,
+.demo-page-2,
+.demo-page-3 {
+	color: #fff;
+	text-align: center;
+}
+
+.demo-page-1 {
+	background-color: #00a75f;
+}
+
+.demo-page-2 {
+	background-color: #25add8;
+}
+
+.demo-page-3 {
+	background-color: #b6393b;
+}
