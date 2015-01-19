@@ -2,6 +2,10 @@
 
 BetterScroll for jQuery allows you to easily turn your page with sections into single page scroll.
 
+# Demo
+
+See [live example](http://devbridge.github.io/BetterScroll).
+
 ##License
 
 BetterScroll for jQuery is freely distributable under the 
